@@ -24,5 +24,5 @@ El proyecto se desarrolló a través de las siguientes etapas:
 5.	Visualización de datos: elaboración de histogramas y diagramas de caja para identificar patrones de consumo y valores atípicos.
 6.	Segmentación de clientes: clasificación de los usuarios según su nivel de uso (bajo, medio y alto) y grupo de edad (jóvenes, adultos y adultos mayores).
 7.	Análisis ejecutivo: interpretación de los hallazgos y formulación
-8.	6. Cómo ejecutar el proyecto
+8.	 Cómo ejecutar el proyecto
 El notebook puede ejecutarse desde Jupyter Notebook
